@@ -1,0 +1,16 @@
+
+
+
+
+      invoke-static {p0}, Lakgrey/a;->a(Landroid/app/Activity;)V
+      
+      
+      
+      Default Settings to Work this dadb
+    
+    >Android Manifest should contain permission for 
+      Internet 
+      Read Phone Status 
+      
+    >This kotlin dadb may not work on some java SDK apps
+     so choosed java dadb
